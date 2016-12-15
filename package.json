@@ -1,0 +1,31 @@
+{
+  "name": "mtype-node-level",
+  "version": "0.1.0",
+  "description": "level store for mojule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojule/mtype-node-level.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojule/mtype-node-level/issues"
+  },
+  "homepage": "https://github.com/mojule/mtype-node-level#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "dependencies": {
+    "leveldown": "^1.5.0",
+    "levelup": "^1.3.3",
+    "mtype-node-store": "^0.1.0",
+    "pify": "^2.3.0"
+  }
+}
