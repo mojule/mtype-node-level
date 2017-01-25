@@ -1,6 +1,6 @@
 {
   "name": "mtype-node-level",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "level store for mojule",
   "main": "index.js",
   "scripts": {
